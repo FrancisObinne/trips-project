@@ -122,4 +122,4 @@ app.use(globalErrorHandler);
 
 module.exports = app;
 
-// 102.91.4.226/32 My IP Address
+// 102.91.4.226/32 My IP Address for mongoDBAtlas
